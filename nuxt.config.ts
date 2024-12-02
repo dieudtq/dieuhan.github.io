@@ -4,6 +4,6 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   ssr: false,
   app: {
-    baseURL: '/dieuhan.github.io/',
+    baseURL: 'https://dieuhan.github.io/',
   },
 })
